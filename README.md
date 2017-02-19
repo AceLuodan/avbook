@@ -9,13 +9,15 @@
 1.数据库及开发环境下载地址
 ------
 
-+ 网盘地址为： [http://pan.baidu.com/s/1o7Vawg6](http://pan.baidu.com/s/1o7Vawg6) ，提取密码：4cy2（2017.2.19更新） 
++ 网盘链接：[http://pan.baidu.com/s/1c1XwBUo](http://pan.baidu.com/s/1c1XwBUo) ， 密码：eevf（2017.2.19更新） 
 
     使用方法：
+    	
 		1、解压到D:\guyueyingmu目录下；
 		2、双击运行D:\guyueyingmu\phpStudy\phpStudy.exe，点击确定，启动；
 		3、绿灯亮起之后就可以到浏览器地址栏里输入以下地址:
           [http://127.0.0.1/avbook/index.php/jav/javhome/?] 
+          
 +  [http://127.0.0.1/avbook/index.php/jav/javhome/?](http://127.0.0.1/banjianfengyue/index.php/jav/javhome/?)
 	 
  
