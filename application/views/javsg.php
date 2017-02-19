@@ -340,10 +340,10 @@ var n=0;
  
 <div class="row ptb30">
     <div class="col-xs-6 text-center">
-        <a href="http://www.bus222.com/index_movies.php?op=view&amp;class=4&amp;spcode=CHN-120" class="btn btn-lg btn-primary btn-block" target="_blank" rel="nofollow"><span class="glyphicon glyphicon-play"></span> 在線播放</a>
+        <a href="<?php echo base_url() ?>index.php/jav/pag404" class="btn btn-lg btn-primary btn-block" target="_blank" rel="nofollow"><span class="glyphicon glyphicon-play"></span> 在線播放</a>
     </div>
     <div class="col-xs-6 text-center">
-        <a href="http://www.avbus77.com/index_movies.php?op=view&amp;class=4&amp;spcode=CHN-120" class="btn btn-lg btn-warning btn-block" target="_blank" rel="nofollow"><span class="glyphicon glyphicon-save"></span> 下載觀看</a>
+        <a href="<?php echo base_url() ?>index.php/jav/pag404" class="btn btn-lg btn-warning btn-block" target="_blank" rel="nofollow"><span class="glyphicon glyphicon-save"></span> 下載觀看</a>
     </div>
 </div>
  
