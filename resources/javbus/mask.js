@@ -1,4 +1,4 @@
-   var blurimg=0;
+   var blurimg=1;
    var blurimgclass='blur';
   // $(".hh3").addClass("blur");
    if(blurimg){
