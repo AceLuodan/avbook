@@ -3,8 +3,7 @@
 
 **Illegal vehicle from Red Castle**
 
-![index](index.png)
-![index](index2.png)
+![index](index.png) 
 
 1.数据库及开发环境下载地址
 ------
